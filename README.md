@@ -1,6 +1,8 @@
 # Issue Tracking System
 
 A full-stack application built with React (TypeScript), Express.js, and PostgreSQL.
+![testing issue tracker123](https://github.com/user-attachments/assets/48cbbcf8-ba5b-40ef-bb76-dfd45bf28996)
+
 
 ## Prerequisites
 
